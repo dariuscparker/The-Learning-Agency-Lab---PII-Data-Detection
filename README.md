@@ -9,7 +9,9 @@ The presence of PII in educational data is a significant barrier to the creation
 ## Dataset
 The dataset consists of thousands of student essays from a massively open online course, processed to identify several PII categories such as names, emails, and phone numbers.
 
-**Note:** The dataset exceeds GitHub's storage limit. It is recommended to run this notebook in a Kaggle environment for optimal performance and access to the dataset. The notebook can be accessed at the following link: [Kaggle notebook](https://www.kaggle.com/code/deeparker/pii-detection-with-deberta).
+**Note:** The dataset exceeds GitHub's storage limit. It is recommended to run this notebook in a Kaggle environment for optimal performance and access to the dataset. The notebook can be accessed at the following link: 
+
+[Kaggle notebook](https://www.kaggle.com/code/deeparker/pii-detection-with-deberta).
 
 ## Model Implementation
 ### DeBERTa for NER
