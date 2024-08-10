@@ -11,7 +11,7 @@ The dataset consists of thousands of student essays from a massively open online
 
 **Note:** The dataset exceeds GitHub's storage limit. It is recommended to run this notebook in a Kaggle environment for optimal performance and access to the dataset. The notebook can be accessed at the following link: 
 
-[Optiver Model Comparison and Ensemble](https://www.kaggle.com/code/deeparker/pii-detection-with-deberta).
+[Optiver Model Comparison and Ensemble](https://www.kaggle.com/code/deeparker/pii-detection-with-deberta)
 
 ## Model Implementation
 ### DeBERTa for NER
